@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 A comprehensive data-driven analysis of **Aadhaar enrolment and update patterns** across India, examining 3.3 million+ records from March - October 2025. This project identifies meaningful patterns, trends, anomalies, and predictive indicators to support UIDAI decision-making and operational improvements.
 
@@ -19,7 +19,7 @@ A comprehensive data-driven analysis of **Aadhaar enrolment and update patterns*
 
 ---
 
-## 🎯 Key Findings Summary
+##  Key Findings Summary
 
 | # | Finding | Key Metric | Impact |
 |---|---------|------------|--------|
@@ -33,19 +33,19 @@ A comprehensive data-driven analysis of **Aadhaar enrolment and update patterns*
 
 ---
 
-## 💡 Strategic Impact
+##  Strategic Impact
 
 **If recommendations are implemented:**
 
-- 🎯 **5M+ additional citizens** with valid Aadhaar
-- 💰 **₹85-150 crores annual savings** through resource optimization
-- ⏱️ **67% reduction** in update processing lag (18 months → 6 months)
-- ✅ **60% reduction** in authentication failures
-- 📈 **3.1x growth potential** unlocked while reducing costs by 15-20%
+-  **5M+ additional citizens** with valid Aadhaar
+-  **₹85-150 crores annual savings** through resource optimization
+-  **67% reduction** in update processing lag (18 months → 6 months)
+-  **60% reduction** in authentication failures
+-  **3.1x growth potential** unlocked while reducing costs by 15-20%
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 UIDAI-Data-Hackathon-2026/
@@ -83,7 +83,7 @@ UIDAI-Data-Hackathon-2026/
 
 ---
 
-## 📊 Datasets Analyzed
+##  Datasets Analyzed
 
 **Three complementary datasets from UIDAI:**
 
@@ -105,7 +105,7 @@ UIDAI-Data-Hackathon-2026/
 
 ---
 
-## 🔬 Analysis Methodology
+##  Analysis Methodology
 
 ### **Statistical Methods:**
 - Univariate, Bivariate & Trivariate Analysis
@@ -125,7 +125,7 @@ UIDAI-Data-Hackathon-2026/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### **Prerequisites**
 - Python 3.10+
@@ -154,7 +154,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Running Analysis
+##  Running Analysis
 
 ### **Option A: Google Colab (Recommended)**
 
@@ -187,7 +187,7 @@ jupyter notebook
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 1. **Geographic Concentration** - Top 15 states by enrolment volume (horizontal bar chart)
 2. **Age Distribution** - Child, teen, adult breakdown across top 20 states (stacked bar chart)
@@ -197,7 +197,7 @@ jupyter notebook
 
 ---
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 ### **Immediate Actions (0-3 months)**
 - Data quality audit & standardization
@@ -218,7 +218,7 @@ jupyter notebook
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -233,7 +233,7 @@ jupyter notebook
 
 ---
 
-## 📝 Reproducibility
+##  Reproducibility
 
 **Random Seeds:** All analyses use `RANDOM_SEED = 42` for reproducible results
 
@@ -249,7 +249,7 @@ jupyter notebook
 
 ---
 
-## 📄 Data Source & License
+##  Data Source & License
 
 **Source:** UIDAI via event.data.gov.in  
 **License:** OGD Platform Terms of Use (Creative Commons By 4.0)  
@@ -264,31 +264,31 @@ jupyter notebook
 
 ---
 
-## 📊 Expected Outcomes
+##  Expected Outcomes
 
 Upon successful execution:
 
-- ✅ 5 high-quality PNG visualizations generated
-- ✅ Statistical outputs displayed in notebook cells
-- ✅ 7 key insights documented with recommendations
-- ✅ Predictive forecast for 3 months (Nov 2025 - Jan 2026)
-- ✅ 53 anomalies identified with root cause analysis
+-  5 high-quality PNG visualizations generated
+-  Statistical outputs displayed in notebook cells
+-  7 key insights documented with recommendations
+-  Predictive forecast for 3 months (Nov 2025 - Jan 2026)
+-  53 anomalies identified with root cause analysis
 
 ---
 
-## 👤 Author
+##  Author
 
 **Battu Bharath Kumar**  
 B.Tech Computer Science & Engineering  
 KL University, Vaddeswaram, Andhra Pradesh
 
-📧 Email: bk9761790@gmail.com  
-🔗 LinkedIn: [battu-bharath-kumar](https://linkedin.com/in/battu-bharath-kumar)  
-💻 GitHub: [@bharathbattu](https://github.com/bharathbattu)
+ Email: bk9761790@gmail.com  
+ LinkedIn: [battu-bharath-kumar](https://linkedin.com/in/battu-bharath-kumar)  
+ GitHub: [@bharathbattu](https://github.com/bharathbattu)
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
 **For questions about this analysis:**
 - Email: bk9761790@gmail.com
@@ -300,17 +300,17 @@ KL University, Vaddeswaram, Andhra Pradesh
 
 ---
 
-## 📋 Submission Details
+##  Submission Details
 
 **Final Submission:** [View PDF Report](outputs/reports/UIDAI_Hackathon_2026_Submission.pdf)
 
 **Competition:** UIDAI Data Hackathon 2026  
 **Deadline:** January 20, 2026, 11:59 PM  
-**Status:** ✅ Submitted
+**Status:**  Submitted
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **UIDAI** for providing comprehensive datasets
 - **OGD Platform India** for data infrastructure
@@ -319,13 +319,13 @@ KL University, Vaddeswaram, Andhra Pradesh
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🔑 Keywords
+##  Keywords
 
 `Aadhaar Data Analysis` `Python` `Machine Learning` `Time-Series Forecasting` `Prophet` `Anomaly Detection` `Government Data` `India` `UIDAI` `Data Science` `Predictive Analytics` `Geographic Analysis` `Public Policy`
 
@@ -333,8 +333,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Last Updated:** January 20, 2026  
 **Version:** 1.0 (Final Submission)  
-**Document Status:** ✅ Complete & Submitted
+**Document Status:**  Complete & Submitted
 
 ---
 
 *This analysis demonstrates data-driven decision-making for national identity systems, combining statistical rigor with practical recommendations for operational excellence.*
+
